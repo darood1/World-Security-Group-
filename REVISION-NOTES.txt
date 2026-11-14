@@ -1,5 +1,0 @@
-World Security Group — visual refinement
-
-Updated: London skyline hero with single HTML text overlay and blurred backdrop; concierge image crop to remove wall branding; mobile patrol car crop; event crop; distinct refresher and trainer images; solid red Online button. Original WSG logo, favicon, forms, navigation, and footer preserved.
-
-Note: these are retouched crops of the existing imagery, not newly commissioned full-resolution photographs. Some WSG markings on existing uniforms remain in other images. Forms require live activation/testing before use.
