@@ -1,1 +1,0 @@
-Added 9 course information pages, each with topics, audience, assessment and FAQs. Inspired by the section structure of the user-provided Hurak page, not copied. Course dates, awarding-body prerequisites and exact package inclusions must be verified before publication. Stripe links retained.
